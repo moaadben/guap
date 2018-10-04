@@ -1,0 +1,22 @@
+{
+  "name": "guap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaadben/guap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moaadben/guap/issues"
+  },
+  "homepage": "https://github.com/moaadben/guap#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
